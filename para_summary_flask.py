@@ -4,7 +4,7 @@ import json
 from openai import OpenAI
 
 # Set the OpenAI API key
-os.environ['OPENAI_API_KEY'] = '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'
+os.environ['OPENAI_API_KEY'] = ''
 
 # Initialize OpenAI client
 client = OpenAI()
